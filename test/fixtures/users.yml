@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+fulano:
+  email: fulano@example.com
+  password: fulano
+
+beltrano:
+  email: beltrano@example.com
+  password: beltrano
+
